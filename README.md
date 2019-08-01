@@ -5,6 +5,7 @@ vuex
 https://ecomfe.github.io/echarts-examples/public/#chart-type-line
 
 ## Baidu Duer - голосовой помошник
+[ERNIE 2.0 - модель для понимания человеческого языка при помощи ИИ](https://3dnews.ru/991692)<br>
 
 ## Neo китайская криптовалюта
 (Ethereum)
